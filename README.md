@@ -5,7 +5,7 @@ you all know what this project is ... although i will change this description by
 hope you know the basisc of version control systems , if no then learn it asap and if yes then make it to the next level 
 
 content :
-for begginers : https://youtu.be/WbwIoQYP6no
+for begginers : https://youtu.be/WbwIoQYP6no  and  
                 https://www.atlassian.com/git
                 
                 
