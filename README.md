@@ -1,8 +1,8 @@
 # online_quiz
 
-you all know what this project is ... although i will change this description by time....
+you all know what this project is ... although we can change this description by time....
 
-hope you know the basisc of version control systems , if no then learn it asap and if yes then make it to the next level 
+hope you know the basisc of version control systems , if no then learn it asap(max 30-40 minutes) and if yes then make it to the next level 
 
 content :
 for begginers : https://youtu.be/WbwIoQYP6no  and  
