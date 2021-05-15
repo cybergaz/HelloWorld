@@ -11,3 +11,9 @@ for begginers : https://youtu.be/WbwIoQYP6no  and
                 
 for advance (i mean for accessing it with CLI): https://youtu.be/HVsySz-h9r4
 ( don't think it is on linux , you can do on windows as well (my opinion : use linux))
+
+
+
+for HTML tags quick guide visit - https://www.w3schools.com/tags/default.asp
+
+for CSS quick quick guide (instant info ) - https://www.w3schools.com/css/default.asp
