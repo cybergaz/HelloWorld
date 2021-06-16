@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /*services section*/
+#services{
+    margin: 34px;
+    display: flex;
+}
+#services .box1{
+    border: 2px solid brown;
+    margin: auto;
+    padding: 34px;
+    margin: 3px 6px;
+    background:black;
+    width: 33%;
+    align-content: center;
+}
+#services .box1 img{
+    height: 160px;
+    margin: auto;
+    display: block;
+    width: 160px;
+}
+#services .box2{
+    border: 2px solid brown;
+    margin: auto;
+    padding: 34px;
+    margin: 3px 6px;
+    background: black;
+    width: 33%;
+    align-content: center;
+}
+#services .box2 img{
+    height: 160px;
+    margin: auto;
+    display: block;
+    width: 160px;
+}
+#services .box3{
+    border: 2px solid brown;
+    margin: auto;
+    padding: 34px;
+    margin: 3px 6px;
+    background: black;
+    width: 33%; 
+    align-content: center;
+}
+#services .box3 img{
+    height: 160px;
+    margin: auto;
+    display: block;
+    width: 160px;
+}
+#services .box1:hover{
+      transform: scale(1.3);
+}
+#services .box2:hover{
+      transform: scale(1.3);
+}
+#services .box3:hover{
+      transform: scale(1.3);
+}
+#services .box1 p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#services .box2 p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#services .box3 p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/*utility classes*/
+.h-primary{
+    font-size: 3.8rem;
+    padding: 12px;
+    color: black;
+    text-align: center;
+}
+.button {
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04AA6D;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  transition: 2s;
+  align-content: center;
+  position: relative;
+}
+
+.button:hover {background-color: red;}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.h-secondary{
+    font-size: 2.8rem;
+    padding: 12px;
+    text-align: center;
+    color: blueviolet;
+}
+.center{
+    text-align: center;
+    transition: width 2s;
+    color: white;
+}
+
+    </style>
+</head>
+<body>
+    <trp class="services-container">
+        <h1 class="h-primary">PROJECTS</h1>
+        <div id="services">
+            <div class="box1">
+                <img src="./frontdoors.jpeg" alt="">
+                <h2 class="h-secondary ">WHAT'S ON ISLAND?</h2>
+                <p class="center">This is a brain teaser by FRONT DOOR group. based on a story revolving around mystery island.Join us in the adventure of solving the mysterious puzzles.</p>
+                <button class="button">Start the Game</button>
+            </div>
+            <div class="box2">
+                <img src="./python.jpeg" alt="">
+                <h2 class="h-secondary ">COMPUTER QUIZ</h2>
+                <p class="center">This webpage is eclusively designed by FRONT DOOR  group. for online computer quiz. <br><br><br></p>
+                <button class="button">Start the quiz</button>
+            </div>
+            <div class="box3">
+                <img src="./hospital.jpeg" alt="">
+                <h2 class="h-secondary ">HEALTH MANAGMENT</h2>
+                <p class="center">This is a health managment website developed by FRONT DOOR group. This project is upcoming.
+                    <br><br>
+                </p>
+                <button class="button">Start health analysis</button>
+            </div>
+        </div>
+    </trp>
+</body>
+</html>
